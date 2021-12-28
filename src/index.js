@@ -1,10 +1,9 @@
 import { setCustomImage } from './CustomFunctions/setCustomImage';
-import { setCustomListView } from './CustomFunctions/setCustomListView';
 import { setCustomModal } from './CustomFunctions/setCustomModal';
 import { setCustomPicker } from './CustomFunctions/setCustomPicker';
 import { setCustomRefreshControl } from './CustomFunctions/setCustomRefreshControl';
 import { setCustomScrollView } from './CustomFunctions/setCustomScrollView';
-import { setCustomSlider } from './CustomFunctions/setCustomSlider';
+// import { setCustomSlider } from './CustomFunctions/setCustomSlider';
 import { setCustomStatusBar } from './CustomFunctions/setCustomStatusBar';
 import { setCustomSwitch } from './CustomFunctions/setCustomSwitch';
 import { setCustomText } from './CustomFunctions/setCustomText';
@@ -22,12 +21,12 @@ import { setCustomActivityIndicator } from './CustomFunctions/setCustomActivityI
 
 export {
   setCustomImage,
-  setCustomListView,
+  // setCustomListView,
   setCustomModal,
   setCustomPicker,
   setCustomRefreshControl,
   setCustomScrollView,
-  setCustomSlider,
+  // setCustomSlider,
   setCustomStatusBar,
   setCustomSwitch,
   setCustomText,
